@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Website of Najran University](https://www.nu.edu.sa/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Frontend Development using React**
 
 - 💬 Ask me about **Liferay, Spring, .Net, CentOs**
 
