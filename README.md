@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal M AlAbbas</h1>
-<h3 align="center">FullStack Web Developer with experience in Java, Spring Boot, Liferay, and .NET technologies From Saudi Arabia</h3>
+<h3 align="center">FullStack Web Developer with experience in Java with framework Spring Boot & Liferay From Saudi Arabia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-alabbas&label=Profile%20views&color=0e4b71&style=flat" alt="amal-alabbas" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Website of Najran University](https://www.nu.edu.sa/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Frontend Development using React**
 
 - 💬 Ask me about **Liferay, Spring, .Net, CentOs**
 
